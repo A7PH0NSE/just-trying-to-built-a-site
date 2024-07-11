@@ -1,0 +1,634 @@
+{
+    "characters": [
+        {
+            "CREATE": "name",
+            "id": "confession",
+            "AUTO_INCREMENT": "first_date",
+            "name": "most_loved",
+            "confession": "turnoff",
+            "first_date": "physique",
+            "most_loved": "crime"
+        },
+        {
+            "CREATE": "Frieren",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "getting headpats",
+            "confession": "Possessive",
+            "first_date": "Easy win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Fern",
+            "id": "You",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Optimistic",
+            "first_date": "Lose on purpose",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Stark",
+            "id": "Them",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Raiding a castle",
+            "confession": "Pessimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Himmel",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cinema",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "\u00c3\u0153bel",
+            "id": "Them",
+            "AUTO_INCREMENT": "I don\u00e2\u20ac\u2122t care",
+            "name": "Raiding a castle",
+            "confession": "Optimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Murder"
+        },
+        {
+            "CREATE": "Elric Edward",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Raiding a castle",
+            "confession": "Pessimistic",
+            "first_date": "Close match",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Elric Alphonse",
+            "id": "Them",
+            "AUTO_INCREMENT": "I don\u00e2\u20ac\u2122t care",
+            "name": "Raiding a castle",
+            "confession": "Possessive",
+            "first_date": "Complete loss",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Mustang Roy",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cinema",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Possessive",
+            "first_date": "Tactical",
+            "most_loved": "Arrested for a good cause"
+        },
+        {
+            "CREATE": "Hughes Maes",
+            "id": "Them",
+            "AUTO_INCREMENT": "Park",
+            "name": "getting headpats",
+            "confession": "Pessimistic",
+            "first_date": "Tactical",
+            "most_loved": "Arrested for a good cause"
+        },
+        {
+            "CREATE": "Hawkeye Riza",
+            "id": "You",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Optimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Arrested for a good cause"
+        },
+        {
+            "CREATE": "Rockbell Winry",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Raiding a castle",
+            "confession": "Pessimistic",
+            "first_date": "Close match",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Okabe Rintarou",
+            "id": "You",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Raiding a castle",
+            "confession": "Pretentious",
+            "first_date": "Close win",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Makise Kurisu",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Possessive",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Shiina Mayuri",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Getting headpats",
+            "confession": "Optimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Hashida Itaru",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cinema",
+            "name": "Raiding a castle",
+            "confession": "Pessimistic",
+            "first_date": "Easy win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Amane Suzuha",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pretentious",
+            "first_date": "Close win",
+            "most_loved": "Murder"
+        },
+        {
+            "CREATE": "Urushibara Ruka",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Getting headpats",
+            "confession": "Optimistic",
+            "first_date": "Tactical",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Akiha Rumiho",
+            "id": "You",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Kiryuu Moeka",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cinema",
+            "name": "Raiding a castle",
+            "confession": "Possessive",
+            "first_date": "Easy win",
+            "most_loved": "Murder"
+        },
+        {
+            "CREATE": "Yeager Eren",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Getting headpats",
+            "confession": "Pretentious",
+            "first_date": "Close win",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Ackerman Mikasa",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Optimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Levi Rivaille",
+            "id": "You",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Raiding a castle",
+            "confession": "Pretentious",
+            "first_date": "Close win",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Arlert Armin",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Possessive",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Jaeger Grisha",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Getting headpats",
+            "confession": "Optimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Smith Erwin",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cinema",
+            "name": "Raiding a castle",
+            "confession": "Pessimistic",
+            "first_date": "Easy win",
+            "most_loved": "Murder"
+        },
+        {
+            "CREATE": "Zo\u00c3\u00ab Hange",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Possessive",
+            "first_date": "Close win",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Blouse Sasha",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Getting headpats",
+            "confession": "Optimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Braun Reiner",
+            "id": "You",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Kirstein Jean",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cinema",
+            "name": "Raiding a castle",
+            "confession": "Possessive",
+            "first_date": "Easy win",
+            "most_loved": "Murder"
+        },
+        {
+            "CREATE": "Leonhart Annie",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Getting headpats",
+            "confession": "Optimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Shinomiya Kaguya",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Ishigami Yuu",
+            "id": "You",
+            "AUTO_INCREMENT": "Cinema",
+            "name": "Raiding a castle",
+            "confession": "Possessive",
+            "first_date": "Easy win",
+            "most_loved": "Murder"
+        },
+        {
+            "CREATE": "Fujiwara Chika",
+            "id": "Them",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Close win",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Shirogane Miyuki",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Getting headpats",
+            "confession": "Optimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Iino Miko",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Hayasaka Ai",
+            "id": "You",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Raiding a castle",
+            "confession": "Possessive",
+            "first_date": "Easy win",
+            "most_loved": "Murder"
+        },
+        {
+            "CREATE": "Okazaki Tomoya",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Optimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Furukawa Nagisa",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Getting headpats",
+            "confession": "Pessimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Okazaki Ushio",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Optimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Sakagami Tomoyo",
+            "id": "You",
+            "AUTO_INCREMENT": "Cinema",
+            "name": "Raiding a castle",
+            "confession": "Possessive",
+            "first_date": "Easy win",
+            "most_loved": "Murder"
+        },
+        {
+            "CREATE": "Fujibayashi Kyou",
+            "id": "Them",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Getting headpats",
+            "confession": "Pessimistic",
+            "first_date": "Close win",
+            "most_loved": "Falsely accused"
+        },
+        {
+            "CREATE": "Evergarden Violet",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Optimistic",
+            "first_date": "Easy win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Miyamizu Mitsuha",
+            "id": "Them",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Tachibana Taki",
+            "id": "You",
+            "AUTO_INCREMENT": "Cinema",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Gojou Satoru",
+            "id": "You",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Raiding a castle",
+            "confession": "Pessimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Itadori Yuuji",
+            "id": "You",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Raiding a castle",
+            "confession": "Pessimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Fushiguro Megumi",
+            "id": "Them",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Possessive",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Kugisaki Nobara",
+            "id": "Them",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Possessive",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Nanami Kento",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Optimistic",
+            "first_date": "Easy win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Ryoumen Sukuna",
+            "id": "Them",
+            "AUTO_INCREMENT": "Raiding a castle",
+            "name": "Raiding a castle",
+            "confession": "Possessive",
+            "first_date": "Complete loss",
+            "most_loved": "Murder"
+        },
+        {
+            "CREATE": "Okkotsu Yuuta",
+            "id": "Them",
+            "AUTO_INCREMENT": "Park",
+            "name": "Raiding a castle",
+            "confession": "Possessive",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Fushiguro Touji",
+            "id": "You",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Raiding a castle",
+            "confession": "Pessimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Zenin Maki",
+            "id": "Them",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Possessive",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Inumaki Toge",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Optimistic",
+            "first_date": "Easy win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Senjougahara Hitagi",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Getting headpats",
+            "confession": "Possessive",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Araragi Koyomi",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Getting headpats",
+            "confession": "Optimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Hanekawa Tsubasa",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Complete loss",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Oshino Shinobu",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Oshino Meme",
+            "id": "Them",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Raiding a castle",
+            "confession": "Optimistic",
+            "first_date": "Tactical",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Kanbaru Suruga",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Hachikuji Mayoi",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Getting headpats",
+            "confession": "Optimistic",
+            "first_date": "Easy win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Sengoku Nadeko",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Possessive",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Hatsune Miku",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Raiding a castle",
+            "confession": "Optimistic",
+            "first_date": "Easy win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Kagamine Len",
+            "id": "You",
+            "AUTO_INCREMENT": "Arcade",
+            "name": "Raiding a castle",
+            "confession": "Pessimistic",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Kagamine Rin",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Getting headpats",
+            "confession": "Possessive",
+            "first_date": "Easy win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Megurine Luka",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Pessimistic",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Kaito",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Raiding a castle",
+            "confession": "Optimistic",
+            "first_date": "Easy win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Gumi",
+            "id": "You",
+            "AUTO_INCREMENT": "Park",
+            "name": "Sharing an ice-cream cone",
+            "confession": "Possessive",
+            "first_date": "Close win",
+            "most_loved": "Something stupid"
+        },
+        {
+            "CREATE": "Sakurai Kanade",
+            "id": "Them",
+            "AUTO_INCREMENT": "Cafe",
+            "name": "Getting headpats",
+            "confession": "Optimistic",
+            "first_date": "Easy win",
+            "most_loved": "Something stupid"
+        }
+    ]
+}
