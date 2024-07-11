@@ -13,7 +13,7 @@ CREATE TABLE characters (
     crime VARCHAR(50)
 );
 
-INSERT INTO characters (name, confession, first_date, most_loved, turnoff, physique, crime)
+INSERT INTO characters (name, confession, first_date, most_loved, turn_off, physique, crime)
 VALUES 
 ('Frieren', 'You', 'Park', 'getting headpats', 'Possessive', 'Easy win', 'Something stupid'),
 ('Fern', 'You', 'Cafe', 'Sharing an ice-cream cone', 'Optimistic', 'Lose on purpose', 'Falsely accused'),

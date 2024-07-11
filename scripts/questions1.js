@@ -17,7 +17,7 @@ const questions = [
     {
         question: "Biggest turnoff?",
         options: ["Possessive", "Pretentious", "Optimistic", "Pessimistic"],
-        key: "turnoff"
+        key: "turn_off"
     },
     {
         question: "Ideal arm wrestling outcome?",
